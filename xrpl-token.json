@@ -1,11 +1,11 @@
 {
-  "issuer": "rBkedDX9bHwvsHMLCgNnBJEHmmaDeqLyW3",  // Replace with your full issuer address
+  "issuer": "rBkedDXx6ZHkG7SddY6KNSVt7YPDeqLyW3",
   "currency": "VII-FT",
   "name": "VII-FT",
-  "description": "Utility token issued by VII Technologies",
-  "image": "https://raw.githubusercontent.com/PunchNFIT/VII/main/token.png",
+  "description": "VII-FT is the official utility token of the 366 Degree FitTech & Sci Institute Ecosystem. VII-FT incentivizes goal completion, wellness milestones, and is publicly tradable. It also functions as a utility coin within the ecosystem, allowing users to redeem it for products, services, premium experiences, and partner offerings — making it both a motivational tool and a transactional currency across the Ecosystem.",
+  "image": "https://raw.githubusercontent.com/PunchNFIT/VII/main/VII-FT%20Logo.png",
   "website": "https://366degreefitresearch.com",
   "social": {
-    "twitter": "@366degreefit"
+    "twitter": "@vii_ft"
   }
 }
