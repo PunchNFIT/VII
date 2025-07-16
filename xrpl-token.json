@@ -1,0 +1,11 @@
+{
+  "issuer": "rBkedDX9bHwvsHMLCgNnBJEHmmaDeqLyW3",  // Replace with your full issuer address
+  "currency": "VII-FT",
+  "name": "VII-FT",
+  "description": "Utility token issued by VII Technologies",
+  "image": "https://raw.githubusercontent.com/PunchNFIT/VII/main/token.png",
+  "website": "https://366degreefitresearch.com",
+  "social": {
+    "twitter": "@366degreefit"
+  }
+}
